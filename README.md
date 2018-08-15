@@ -1,2 +1,2 @@
 # ColorGameApp
-Color choosing game
+Color choosing game (Udemy course project)
